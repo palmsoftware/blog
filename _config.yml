@@ -1,0 +1,6 @@
+title: Palm Software Blog
+description: Thoughts on software, tech, and building things.
+url: https://blog.palmsoftware.org
+baseurl: ""
+theme: minima
+permalink: /:year/:month/:day/:title/
