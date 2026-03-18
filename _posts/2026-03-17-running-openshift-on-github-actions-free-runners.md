@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Running OpenShift on GitHub Actions Free Runners"
-date: 2026-03-17
+date: 2026-03-17 10:00:00
 author: brandon
 tags: [openshift, github-actions, ci, devops]
 excerpt: "Test OpenShift operators and platform features in CI without cloud costs—using free GitHub Actions runners."

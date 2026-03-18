@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Managing Your Skylight Calendar from the Terminal"
-date: 2026-03-17
+date: 2026-03-17 11:00:00
 tags: [go, cli, homelab, tooling]
 excerpt: "go-skylight brings your family's Skylight Calendar to the command line — manage events, chores, rewards, meals, and more without touching the app."
 ---
